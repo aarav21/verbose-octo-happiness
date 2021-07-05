@@ -1,0 +1,58 @@
+#img_1{
+    float: left;
+    margin-right: 300px;
+}
+#img_2{
+
+    float: right;
+    width: 300px; height: 200;
+
+}
+#img_3{
+    float: left;
+    width: 300px;
+    height: 200px;
+    margin-left: 300px;
+}
+
+#img_4{
+    float: right;
+    width: 300px;
+    height: 200px;
+    margin-right: 300px;
+}
+#img_5{
+    float: left;
+    width: 300px;
+    height: 200px;
+    margin-left: 605px;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+.img_instruction{
+    width: 45%;
+    display: inline;
+}
+
+#footer{
+    width: 100%;
+    background-image: url("https://textures.world/wp-content/uploads/2018/10/3-Pixilated-Gradient-Background-Texture-copy.jpg");
+    line-height: 2;
+    text-align: center;
+    position:fixed;
+    bottom: 0;
+    font-size: 25px;
+}
+video{
+    border-radius: 20px;
+    border-color: cadetblue;
+    border-style: solid;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
